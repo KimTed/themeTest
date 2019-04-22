@@ -1,0 +1,425 @@
+2019-04-22 07:05:53.643 KST [error]: main - 500 - Cannot find module 'ejs' - / - GET - ::1
+2019-04-22 07:05:53.656 KST [info]: main - ::1 - - [22/Apr/2019:10:05:53 +0000] "GET / HTTP/1.1" 500 1050 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:06:04.079 KST [error]: main - 500 - Cannot find module 'ejs' - / - GET - ::1
+2019-04-22 07:06:04.093 KST [info]: main - ::1 - - [22/Apr/2019:10:06:04 +0000] "GET / HTTP/1.1" 500 1050 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:07:24.909 KST [info]: main - ::1 - - [22/Apr/2019:10:07:24 +0000] "GET / HTTP/1.1" 200 301451 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:07:24.920 KST [error]: main - 404 - Not Found - /bower_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css - GET - ::1
+2019-04-22 07:07:24.928 KST [info]: main - ::1 - - [22/Apr/2019:10:07:24 +0000] "GET /bower_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:07:24.929 KST [error]: main - 404 - Not Found - /bower_components/bootstrap/dist/css/bootstrap.min.css - GET - ::1
+2019-04-22 07:07:24.930 KST [error]: main - 404 - Not Found - /images/51TF.png - GET - ::1
+2019-04-22 07:07:24.936 KST [info]: main - ::1 - - [22/Apr/2019:10:07:24 +0000] "GET /bower_components/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:07:24.937 KST [info]: main - ::1 - - [22/Apr/2019:10:07:24 +0000] "GET /images/51TF.png HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:07:25.010 KST [error]: main - 404 - Not Found - /bower_components/bootstrap/dist/css/bootstrap.min.css - GET - ::1
+2019-04-22 07:07:25.014 KST [info]: main - ::1 - - [22/Apr/2019:10:07:25 +0000] "GET /bower_components/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:07:25.018 KST [error]: main - 404 - Not Found - /bower_components/jquery/dist/jquery.min.js - GET - ::1
+2019-04-22 07:07:25.020 KST [error]: main - 404 - Not Found - /bower_components/bootstrap/dist/js/bootstrap.min.js - GET - ::1
+2019-04-22 07:07:25.022 KST [info]: main - ::1 - - [22/Apr/2019:10:07:25 +0000] "GET /bower_components/jquery/dist/jquery.min.js HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:07:25.028 KST [info]: main - ::1 - - [22/Apr/2019:10:07:25 +0000] "GET /bower_components/bootstrap/dist/js/bootstrap.min.js HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:07:25.029 KST [error]: main - 404 - Not Found - /bower_components/admin-lte/dist/js/adminlte.min.js - GET - ::1
+2019-04-22 07:07:25.030 KST [error]: main - 404 - Not Found - /bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js - GET - ::1
+2019-04-22 07:07:25.031 KST [error]: main - 404 - Not Found - /bower_components/moment/moment.js - GET - ::1
+2019-04-22 07:07:25.032 KST [error]: main - 404 - Not Found - /bower_components/chart.js/dist/Chart.min.js - GET - ::1
+2019-04-22 07:07:25.033 KST [error]: main - 404 - Not Found - /bower_components/jquery-slimscroll/jquery.slimscroll.min.js - GET - ::1
+2019-04-22 07:07:25.050 KST [info]: main - ::1 - - [22/Apr/2019:10:07:25 +0000] "GET /bower_components/admin-lte/dist/js/adminlte.min.js HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:07:25.051 KST [info]: main - ::1 - - [22/Apr/2019:10:07:25 +0000] "GET /bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:07:25.051 KST [info]: main - ::1 - - [22/Apr/2019:10:07:25 +0000] "GET /bower_components/moment/moment.js HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:07:25.052 KST [info]: main - ::1 - - [22/Apr/2019:10:07:25 +0000] "GET /bower_components/chart.js/dist/Chart.min.js HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:07:25.053 KST [info]: main - ::1 - - [22/Apr/2019:10:07:25 +0000] "GET /bower_components/jquery-slimscroll/jquery.slimscroll.min.js HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:07:25.055 KST [error]: main - 404 - Not Found - /bower_components/js-xlsx/dist/xlsx.full.min.js - GET - ::1
+2019-04-22 07:07:25.058 KST [info]: main - ::1 - - [22/Apr/2019:10:07:25 +0000] "GET /bower_components/js-xlsx/dist/xlsx.full.min.js HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:07:25.065 KST [error]: main - 404 - Not Found - /javascripts/constants.js - GET - ::1
+2019-04-22 07:07:25.066 KST [error]: main - 404 - Not Found - /javascripts/products.js - GET - ::1
+2019-04-22 07:07:25.067 KST [error]: main - 404 - Not Found - /images/51TF.png - GET - ::1
+2019-04-22 07:07:25.075 KST [info]: main - ::1 - - [22/Apr/2019:10:07:25 +0000] "GET /javascripts/constants.js HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:07:25.076 KST [info]: main - ::1 - - [22/Apr/2019:10:07:25 +0000] "GET /javascripts/products.js HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:07:25.077 KST [info]: main - ::1 - - [22/Apr/2019:10:07:25 +0000] "GET /images/51TF.png HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:07:25.093 KST [error]: main - 404 - Not Found - /bower_components/jquery/dist/jquery.min.js - GET - ::1
+2019-04-22 07:07:25.096 KST [info]: main - ::1 - - [22/Apr/2019:10:07:25 +0000] "GET /bower_components/jquery/dist/jquery.min.js HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:07:25.111 KST [error]: main - 404 - Not Found - /bower_components/bootstrap/dist/js/bootstrap.min.js - GET - ::1
+2019-04-22 07:07:25.116 KST [info]: main - ::1 - - [22/Apr/2019:10:07:25 +0000] "GET /bower_components/bootstrap/dist/js/bootstrap.min.js HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:07:25.121 KST [error]: main - 404 - Not Found - /bower_components/admin-lte/dist/js/adminlte.min.js - GET - ::1
+2019-04-22 07:07:25.124 KST [info]: main - ::1 - - [22/Apr/2019:10:07:25 +0000] "GET /bower_components/admin-lte/dist/js/adminlte.min.js HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:07:25.126 KST [error]: main - 404 - Not Found - /bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js - GET - ::1
+2019-04-22 07:07:25.129 KST [info]: main - ::1 - - [22/Apr/2019:10:07:25 +0000] "GET /bower_components/bootstrap-datepicker/dist/js/bootstrap-datepicker.min.js HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:07:25.132 KST [error]: main - 404 - Not Found - /bower_components/moment/moment.js - GET - ::1
+2019-04-22 07:07:25.138 KST [info]: main - ::1 - - [22/Apr/2019:10:07:25 +0000] "GET /bower_components/moment/moment.js HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:07:25.139 KST [error]: main - 404 - Not Found - /bower_components/chart.js/dist/Chart.min.js - GET - ::1
+2019-04-22 07:07:25.142 KST [info]: main - ::1 - - [22/Apr/2019:10:07:25 +0000] "GET /bower_components/chart.js/dist/Chart.min.js HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:07:25.144 KST [error]: main - 404 - Not Found - /bower_components/jquery-slimscroll/jquery.slimscroll.min.js - GET - ::1
+2019-04-22 07:07:25.147 KST [info]: main - ::1 - - [22/Apr/2019:10:07:25 +0000] "GET /bower_components/jquery-slimscroll/jquery.slimscroll.min.js HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:07:25.149 KST [error]: main - 404 - Not Found - /bower_components/js-xlsx/dist/xlsx.full.min.js - GET - ::1
+2019-04-22 07:07:25.153 KST [info]: main - ::1 - - [22/Apr/2019:10:07:25 +0000] "GET /bower_components/js-xlsx/dist/xlsx.full.min.js HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:07:25.155 KST [error]: main - 404 - Not Found - /javascripts/constants.js - GET - ::1
+2019-04-22 07:07:25.157 KST [info]: main - ::1 - - [22/Apr/2019:10:07:25 +0000] "GET /javascripts/constants.js HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:07:25.158 KST [error]: main - 404 - Not Found - /javascripts/products.js - GET - ::1
+2019-04-22 07:07:25.161 KST [info]: main - ::1 - - [22/Apr/2019:10:07:25 +0000] "GET /javascripts/products.js HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:08:36.473 KST [info]: main - ::1 - - [22/Apr/2019:10:08:36 +0000] "GET / HTTP/1.1" 200 325 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:15:32.406 KST [info]: main - ::1 - - [22/Apr/2019:10:15:32 +0000] "GET / HTTP/1.1" 200 605 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:15:32.418 KST [error]: main - 404 - Not Found - /static/stylesheets/datepicker.css - GET - ::1
+2019-04-22 07:15:32.426 KST [info]: main - ::1 - - [22/Apr/2019:10:15:32 +0000] "GET /static/stylesheets/datepicker.css HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:15:32.429 KST [info]: main - ::1 - - [22/Apr/2019:10:15:32 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 155758 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:15:49.258 KST [info]: main - ::1 - - [22/Apr/2019:10:15:49 +0000] "GET / HTTP/1.1" 200 467 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:15:49.268 KST [error]: main - 404 - Not Found - /static/stylesheets/datepicker.css - GET - ::1
+2019-04-22 07:15:49.275 KST [info]: main - ::1 - - [22/Apr/2019:10:15:49 +0000] "GET /static/stylesheets/datepicker.css HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:15:49.279 KST [info]: main - ::1 - - [22/Apr/2019:10:15:49 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 155758 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:15:57.359 KST [error]: main - 404 - Not Found - /static/stylesheets/datepicker.css - GET - ::1
+2019-04-22 07:15:57.361 KST [info]: main - ::1 - - [22/Apr/2019:10:15:57 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:15:57.364 KST [info]: main - ::1 - - [22/Apr/2019:10:15:57 +0000] "GET /static/stylesheets/datepicker.css HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:15:57.385 KST [info]: main - ::1 - - [22/Apr/2019:10:15:57 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css.map HTTP/1.1" 200 625953 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:15:59.214 KST [info]: main - ::1 - - [22/Apr/2019:10:15:59 +0000] "GET / HTTP/1.1" 200 467 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:15:59.231 KST [error]: main - 404 - Not Found - /static/stylesheets/datepicker.css - GET - ::1
+2019-04-22 07:15:59.238 KST [info]: main - ::1 - - [22/Apr/2019:10:15:59 +0000] "GET /static/stylesheets/datepicker.css HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:15:59.242 KST [info]: main - ::1 - - [22/Apr/2019:10:15:59 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 155758 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:15:59.328 KST [info]: main - ::1 - - [22/Apr/2019:10:15:59 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css.map HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:16:14.194 KST [info]: main - ::1 - - [22/Apr/2019:10:16:14 +0000] "GET / HTTP/1.1" 200 470 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:16:14.212 KST [error]: main - 404 - Not Found - /static/stylesheets/datepicker.css - GET - ::1
+2019-04-22 07:16:14.216 KST [info]: main - ::1 - - [22/Apr/2019:10:16:14 +0000] "GET /static/stylesheets/datepicker.css HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:16:14.220 KST [info]: main - ::1 - - [22/Apr/2019:10:16:14 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 155758 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:16:14.318 KST [info]: main - ::1 - - [22/Apr/2019:10:16:14 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css.map HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:16:50.061 KST [info]: main - ::1 - - [22/Apr/2019:10:16:50 +0000] "GET / HTTP/1.1" 200 470 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:16:50.076 KST [error]: main - 404 - Not Found - /static/stylesheets/datepicker.css - GET - ::1
+2019-04-22 07:16:50.085 KST [info]: main - ::1 - - [22/Apr/2019:10:16:50 +0000] "GET /static/stylesheets/datepicker.css HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:16:50.092 KST [info]: main - ::1 - - [22/Apr/2019:10:16:50 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 155758 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:16:50.188 KST [info]: main - ::1 - - [22/Apr/2019:10:16:50 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css.map HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:17:38.966 KST [info]: main - ::1 - - [22/Apr/2019:10:17:38 +0000] "GET / HTTP/1.1" 200 484 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:17:38.978 KST [error]: main - 404 - Not Found - /public/static/stylesheets/datepicker.css - GET - ::1
+2019-04-22 07:17:38.981 KST [error]: main - 404 - Not Found - /public/static/bootstrap/dist/css/bootstrap.min.css - GET - ::1
+2019-04-22 07:17:38.984 KST [info]: main - ::1 - - [22/Apr/2019:10:17:38 +0000] "GET /public/static/stylesheets/datepicker.css HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:17:38.987 KST [info]: main - ::1 - - [22/Apr/2019:10:17:38 +0000] "GET /public/static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:17:39.046 KST [error]: main - 404 - Not Found - /public/static/bootstrap/dist/css/bootstrap.min.css - GET - ::1
+2019-04-22 07:17:39.050 KST [info]: main - ::1 - - [22/Apr/2019:10:17:39 +0000] "GET /public/static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:17:42.236 KST [error]: main - 404 - Not Found - /public/static/stylesheets/datepicker.css - GET - ::1
+2019-04-22 07:17:42.245 KST [info]: main - ::1 - - [22/Apr/2019:10:17:42 +0000] "GET /public/static/stylesheets/datepicker.css HTTP/1.1" 404 1316 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:17:46.807 KST [error]: main - 404 - Not Found - /static/stylesheets/datepicker.css - GET - ::1
+2019-04-22 07:17:46.811 KST [info]: main - ::1 - - [22/Apr/2019:10:17:46 +0000] "GET /static/stylesheets/datepicker.css HTTP/1.1" 404 1316 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:17:50.390 KST [info]: main - ::1 - - [22/Apr/2019:10:17:50 +0000] "GET /stylesheets/datepicker.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:18:18.675 KST [error]: main - 404 - Not Found - /public/static/bootstrap/dist/css/bootstrap.min.css - GET - ::1
+2019-04-22 07:18:18.683 KST [info]: main - ::1 - - [22/Apr/2019:10:18:18 +0000] "GET /public/static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 404 1316 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:18:22.543 KST [info]: main - ::1 - - [22/Apr/2019:10:18:22 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:18:30.325 KST [info]: main - ::1 - - [22/Apr/2019:10:18:30 +0000] "GET / HTTP/1.1" 200 463 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:18:30.340 KST [info]: main - ::1 - - [22/Apr/2019:10:18:30 +0000] "GET /stylesheets/datepicker.css HTTP/1.1" 200 4411 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:18:30.342 KST [info]: main - ::1 - - [22/Apr/2019:10:18:30 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 155758 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:18:30.424 KST [info]: main - ::1 - - [22/Apr/2019:10:18:30 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css.map HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:18:34.291 KST [info]: main - ::1 - - [22/Apr/2019:10:18:34 +0000] "GET / HTTP/1.1" 200 463 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:18:34.313 KST [info]: main - ::1 - - [22/Apr/2019:10:18:34 +0000] "GET /stylesheets/datepicker.css HTTP/1.1" 200 4411 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:18:34.317 KST [info]: main - ::1 - - [22/Apr/2019:10:18:34 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 155758 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:18:34.409 KST [info]: main - ::1 - - [22/Apr/2019:10:18:34 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css.map HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:18:57.631 KST [info]: main - ::1 - - [22/Apr/2019:10:18:57 +0000] "GET / HTTP/1.1" 200 601 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:18:57.645 KST [info]: main - ::1 - - [22/Apr/2019:10:18:57 +0000] "GET /stylesheets/datepicker.css HTTP/1.1" 200 4411 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:18:57.649 KST [info]: main - ::1 - - [22/Apr/2019:10:18:57 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 155758 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:18:57.739 KST [info]: main - ::1 - - [22/Apr/2019:10:18:57 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css.map HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:21:01.719 KST [info]: main - ::1 - - [22/Apr/2019:10:21:01 +0000] "GET / HTTP/1.1" 200 19170 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:21:01.737 KST [error]: main - 404 - Not Found - /images/51TF.png - GET - ::1
+2019-04-22 07:21:01.738 KST [info]: main - ::1 - - [22/Apr/2019:10:21:01 +0000] "GET /stylesheets/datepicker.css HTTP/1.1" 200 4411 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:21:01.744 KST [info]: main - ::1 - - [22/Apr/2019:10:21:01 +0000] "GET /images/51TF.png HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:21:01.747 KST [info]: main - ::1 - - [22/Apr/2019:10:21:01 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 155758 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:21:01.810 KST [error]: main - 404 - Not Found - /jquery/dist/jquery.min.js - GET - ::1
+2019-04-22 07:21:01.813 KST [info]: main - ::1 - - [22/Apr/2019:10:21:01 +0000] "GET /jquery/dist/jquery.min.js HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:21:01.829 KST [error]: main - 404 - Not Found - /images/51TF.png - GET - ::1
+2019-04-22 07:21:01.830 KST [error]: main - 404 - Not Found - /jquery/dist/jquery.min.js - GET - ::1
+2019-04-22 07:21:01.834 KST [info]: main - ::1 - - [22/Apr/2019:10:21:01 +0000] "GET /images/51TF.png HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:21:01.835 KST [info]: main - ::1 - - [22/Apr/2019:10:21:01 +0000] "GET /jquery/dist/jquery.min.js HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:21:01.960 KST [info]: main - ::1 - - [22/Apr/2019:10:21:01 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css.map HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:21:15.752 KST [error]: main - 404 - Not Found - /jquery/dist/jquery.min.js - GET - ::1
+2019-04-22 07:21:15.760 KST [info]: main - ::1 - - [22/Apr/2019:10:21:15 +0000] "GET /jquery/dist/jquery.min.js HTTP/1.1" 404 1316 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:21:22.540 KST [info]: main - ::1 - - [22/Apr/2019:10:21:22 +0000] "GET /static/jquery/dist/jquery.min.js HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:21:31.107 KST [info]: main - ::1 - - [22/Apr/2019:10:21:31 +0000] "GET / HTTP/1.1" 200 19177 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:21:31.126 KST [error]: main - 404 - Not Found - /images/51TF.png - GET - ::1
+2019-04-22 07:21:31.131 KST [info]: main - ::1 - - [22/Apr/2019:10:21:31 +0000] "GET /images/51TF.png HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:21:31.132 KST [info]: main - ::1 - - [22/Apr/2019:10:21:31 +0000] "GET /stylesheets/datepicker.css HTTP/1.1" 200 4411 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:21:31.137 KST [info]: main - ::1 - - [22/Apr/2019:10:21:31 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 155758 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:21:31.193 KST [info]: main - ::1 - - [22/Apr/2019:10:21:31 +0000] "GET /static/jquery/dist/jquery.min.js HTTP/1.1" 200 86351 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:21:31.219 KST [error]: main - 404 - Not Found - /images/51TF.png - GET - ::1
+2019-04-22 07:21:31.222 KST [info]: main - ::1 - - [22/Apr/2019:10:21:31 +0000] "GET /images/51TF.png HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:21:31.230 KST [info]: main - ::1 - - [22/Apr/2019:10:21:31 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css.map HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:22:18.836 KST [info]: main - ::1 - - [22/Apr/2019:10:22:18 +0000] "GET / HTTP/1.1" 200 19183 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:22:18.854 KST [info]: main - ::1 - - [22/Apr/2019:10:22:18 +0000] "GET /stylesheets/datepicker.css HTTP/1.1" 200 4411 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:22:18.856 KST [info]: main - ::1 - - [22/Apr/2019:10:22:18 +0000] "GET /images/51Scrum.png HTTP/1.1" 200 2476 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:22:18.859 KST [info]: main - ::1 - - [22/Apr/2019:10:22:18 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 155758 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:22:18.920 KST [info]: main - ::1 - - [22/Apr/2019:10:22:18 +0000] "GET /static/jquery/dist/jquery.min.js HTTP/1.1" 200 86351 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:22:18.963 KST [info]: main - ::1 - - [22/Apr/2019:10:22:18 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css.map HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:14.885 KST [info]: main - ::1 - - [22/Apr/2019:10:25:14 +0000] "GET / HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:14.903 KST [info]: main - ::1 - - [22/Apr/2019:10:25:14 +0000] "GET /stylesheets/datepicker.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:14.906 KST [info]: main - ::1 - - [22/Apr/2019:10:25:14 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:14.907 KST [info]: main - ::1 - - [22/Apr/2019:10:25:14 +0000] "GET /images/51Scrum.png HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:14.908 KST [info]: main - ::1 - - [22/Apr/2019:10:25:14 +0000] "GET /static/jquery/dist/jquery.min.js HTTP/1.1" 304 - "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:15.036 KST [info]: main - ::1 - - [22/Apr/2019:10:25:15 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css.map HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:15.121 KST [error]: main - 404 - Not Found - /favicon.ico - GET - ::1
+2019-04-22 07:25:15.126 KST [info]: main - ::1 - - [22/Apr/2019:10:25:15 +0000] "GET /favicon.ico HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:53.357 KST [info]: main - ::1 - - [22/Apr/2019:10:25:53 +0000] "GET / HTTP/1.1" 200 19183 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:53.373 KST [info]: main - ::1 - - [22/Apr/2019:10:25:53 +0000] "GET /stylesheets/datepicker.css HTTP/1.1" 200 4411 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:53.376 KST [info]: main - ::1 - - [22/Apr/2019:10:25:53 +0000] "GET /images/51Scrum.png HTTP/1.1" 200 2476 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:53.379 KST [info]: main - ::1 - - [22/Apr/2019:10:25:53 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 121201 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:53.439 KST [info]: main - ::1 - - [22/Apr/2019:10:25:53 +0000] "GET /static/jquery/dist/jquery.min.js HTTP/1.1" 200 86351 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:53.502 KST [info]: main - ::1 - - [22/Apr/2019:10:25:53 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css.map HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:54.038 KST [info]: main - ::1 - - [22/Apr/2019:10:25:54 +0000] "GET / HTTP/1.1" 200 19183 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:54.064 KST [info]: main - ::1 - - [22/Apr/2019:10:25:54 +0000] "GET /stylesheets/datepicker.css HTTP/1.1" 200 4411 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:54.068 KST [info]: main - ::1 - - [22/Apr/2019:10:25:54 +0000] "GET /images/51Scrum.png HTTP/1.1" 200 2476 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:54.069 KST [info]: main - ::1 - - [22/Apr/2019:10:25:54 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 121201 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:54.124 KST [info]: main - ::1 - - [22/Apr/2019:10:25:54 +0000] "GET /static/jquery/dist/jquery.min.js HTTP/1.1" 200 86351 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:54.177 KST [info]: main - ::1 - - [22/Apr/2019:10:25:54 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css.map HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:54.421 KST [info]: main - ::1 - - [22/Apr/2019:10:25:54 +0000] "GET / HTTP/1.1" 200 19183 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:54.464 KST [info]: main - ::1 - - [22/Apr/2019:10:25:54 +0000] "GET /stylesheets/datepicker.css HTTP/1.1" 200 4411 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:54.470 KST [info]: main - ::1 - - [22/Apr/2019:10:25:54 +0000] "GET /images/51Scrum.png HTTP/1.1" 200 2476 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:54.475 KST [info]: main - ::1 - - [22/Apr/2019:10:25:54 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 121201 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:54.562 KST [info]: main - ::1 - - [22/Apr/2019:10:25:54 +0000] "GET /static/jquery/dist/jquery.min.js HTTP/1.1" 200 86351 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:54.610 KST [info]: main - ::1 - - [22/Apr/2019:10:25:54 +0000] "GET / HTTP/1.1" 200 19183 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:54.619 KST [info]: main - ::1 - - [22/Apr/2019:10:25:54 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css.map HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:54.677 KST [info]: main - ::1 - - [22/Apr/2019:10:25:54 +0000] "GET /stylesheets/datepicker.css HTTP/1.1" 200 4411 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:54.680 KST [info]: main - ::1 - - [22/Apr/2019:10:25:54 +0000] "GET /images/51Scrum.png HTTP/1.1" 200 2476 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:54.683 KST [info]: main - ::1 - - [22/Apr/2019:10:25:54 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 121201 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:54.740 KST [info]: main - ::1 - - [22/Apr/2019:10:25:54 +0000] "GET /static/jquery/dist/jquery.min.js HTTP/1.1" 200 86351 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:54.758 KST [info]: main - ::1 - - [22/Apr/2019:10:25:54 +0000] "GET / HTTP/1.1" 200 19183 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:54.788 KST [info]: main - ::1 - - [22/Apr/2019:10:25:54 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css.map HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:54.837 KST [info]: main - ::1 - - [22/Apr/2019:10:25:54 +0000] "GET /stylesheets/datepicker.css HTTP/1.1" 200 4411 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:54.838 KST [info]: main - ::1 - - [22/Apr/2019:10:25:54 +0000] "GET /images/51Scrum.png HTTP/1.1" 200 2476 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:54.840 KST [info]: main - ::1 - - [22/Apr/2019:10:25:54 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 121201 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:54.894 KST [info]: main - ::1 - - [22/Apr/2019:10:25:54 +0000] "GET /static/jquery/dist/jquery.min.js HTTP/1.1" 200 86351 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:54.943 KST [info]: main - ::1 - - [22/Apr/2019:10:25:54 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css.map HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:59.168 KST [info]: main - ::1 - - [22/Apr/2019:10:25:59 +0000] "GET / HTTP/1.1" 200 19183 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:59.185 KST [info]: main - ::1 - - [22/Apr/2019:10:25:59 +0000] "GET /stylesheets/datepicker.css HTTP/1.1" 200 4411 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:59.187 KST [info]: main - ::1 - - [22/Apr/2019:10:25:59 +0000] "GET /images/51Scrum.png HTTP/1.1" 200 2476 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:59.190 KST [info]: main - ::1 - - [22/Apr/2019:10:25:59 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 155758 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:59.245 KST [info]: main - ::1 - - [22/Apr/2019:10:25:59 +0000] "GET /static/jquery/dist/jquery.min.js HTTP/1.1" 200 86351 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:59.299 KST [info]: main - ::1 - - [22/Apr/2019:10:25:59 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css.map HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:59.407 KST [info]: main - ::1 - - [22/Apr/2019:10:25:59 +0000] "GET / HTTP/1.1" 200 19183 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:59.429 KST [info]: main - ::1 - - [22/Apr/2019:10:25:59 +0000] "GET /stylesheets/datepicker.css HTTP/1.1" 200 4411 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:59.433 KST [info]: main - ::1 - - [22/Apr/2019:10:25:59 +0000] "GET /images/51Scrum.png HTTP/1.1" 200 2476 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:59.436 KST [info]: main - ::1 - - [22/Apr/2019:10:25:59 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 155758 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:59.496 KST [info]: main - ::1 - - [22/Apr/2019:10:25:59 +0000] "GET /static/jquery/dist/jquery.min.js HTTP/1.1" 200 86351 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:59.557 KST [info]: main - ::1 - - [22/Apr/2019:10:25:59 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css.map HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:59.653 KST [info]: main - ::1 - - [22/Apr/2019:10:25:59 +0000] "GET / HTTP/1.1" 200 19183 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:59.670 KST [info]: main - ::1 - - [22/Apr/2019:10:25:59 +0000] "GET /stylesheets/datepicker.css HTTP/1.1" 200 4411 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:59.674 KST [info]: main - ::1 - - [22/Apr/2019:10:25:59 +0000] "GET /images/51Scrum.png HTTP/1.1" 200 2476 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:59.677 KST [info]: main - ::1 - - [22/Apr/2019:10:25:59 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 155758 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:59.740 KST [info]: main - ::1 - - [22/Apr/2019:10:25:59 +0000] "GET /static/jquery/dist/jquery.min.js HTTP/1.1" 200 86351 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:59.798 KST [info]: main - ::1 - - [22/Apr/2019:10:25:59 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css.map HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:59.842 KST [info]: main - ::1 - - [22/Apr/2019:10:25:59 +0000] "GET / HTTP/1.1" 200 19183 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:59.860 KST [info]: main - ::1 - - [22/Apr/2019:10:25:59 +0000] "GET /stylesheets/datepicker.css HTTP/1.1" 200 4411 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:59.862 KST [info]: main - ::1 - - [22/Apr/2019:10:25:59 +0000] "GET /images/51Scrum.png HTTP/1.1" 200 2476 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:59.865 KST [info]: main - ::1 - - [22/Apr/2019:10:25:59 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 155758 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:59.923 KST [info]: main - ::1 - - [22/Apr/2019:10:25:59 +0000] "GET /static/jquery/dist/jquery.min.js HTTP/1.1" 200 86351 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:25:59.979 KST [info]: main - ::1 - - [22/Apr/2019:10:25:59 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css.map HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:26:00.011 KST [info]: main - ::1 - - [22/Apr/2019:10:26:00 +0000] "GET / HTTP/1.1" 200 19183 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:26:00.028 KST [info]: main - ::1 - - [22/Apr/2019:10:26:00 +0000] "GET /stylesheets/datepicker.css HTTP/1.1" 200 4411 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:26:00.032 KST [info]: main - ::1 - - [22/Apr/2019:10:26:00 +0000] "GET /images/51Scrum.png HTTP/1.1" 200 2476 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:26:00.036 KST [info]: main - ::1 - - [22/Apr/2019:10:26:00 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 155758 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:26:00.088 KST [info]: main - ::1 - - [22/Apr/2019:10:26:00 +0000] "GET /static/jquery/dist/jquery.min.js HTTP/1.1" 200 86351 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:26:00.152 KST [info]: main - ::1 - - [22/Apr/2019:10:26:00 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css.map HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:26:00.189 KST [info]: main - ::1 - - [22/Apr/2019:10:26:00 +0000] "GET / HTTP/1.1" 200 19183 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:26:00.207 KST [info]: main - ::1 - - [22/Apr/2019:10:26:00 +0000] "GET /stylesheets/datepicker.css HTTP/1.1" 200 4411 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:26:00.210 KST [info]: main - ::1 - - [22/Apr/2019:10:26:00 +0000] "GET /images/51Scrum.png HTTP/1.1" 200 2476 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:26:00.212 KST [info]: main - ::1 - - [22/Apr/2019:10:26:00 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 155758 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:26:00.270 KST [info]: main - ::1 - - [22/Apr/2019:10:26:00 +0000] "GET /static/jquery/dist/jquery.min.js HTTP/1.1" 200 86351 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:26:00.327 KST [info]: main - ::1 - - [22/Apr/2019:10:26:00 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css.map HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:28:55.226 KST [info]: main - ::1 - - [22/Apr/2019:10:28:55 +0000] "GET / HTTP/1.1" 200 19247 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:28:55.248 KST [info]: main - ::1 - - [22/Apr/2019:10:28:55 +0000] "GET /stylesheets/datepicker.css HTTP/1.1" 200 4411 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:28:55.251 KST [info]: main - ::1 - - [22/Apr/2019:10:28:55 +0000] "GET /images/51Scrum.png HTTP/1.1" 200 2476 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:28:55.254 KST [info]: main - ::1 - - [22/Apr/2019:10:28:55 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 155758 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:28:55.323 KST [error]: main - 404 - Not Found - /static/bootstrap/dist/js/jquery.min.js - GET - ::1
+2019-04-22 07:28:55.326 KST [info]: main - ::1 - - [22/Apr/2019:10:28:55 +0000] "GET /static/bootstrap/dist/js/jquery.min.js HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:28:55.330 KST [info]: main - ::1 - - [22/Apr/2019:10:28:55 +0000] "GET /static/jquery/dist/jquery.min.js HTTP/1.1" 200 86351 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:28:55.403 KST [info]: main - ::1 - - [22/Apr/2019:10:28:55 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css.map HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:28:55.405 KST [error]: main - 404 - Not Found - /static/bootstrap/dist/js/jquery.min.js - GET - ::1
+2019-04-22 07:28:55.414 KST [info]: main - ::1 - - [22/Apr/2019:10:28:55 +0000] "GET /static/bootstrap/dist/js/jquery.min.js HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:40:39.515 KST [info]: main - ::1 - - [22/Apr/2019:10:40:39 +0000] "GET / HTTP/1.1" 200 725 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:40:39.539 KST [error]: main - 404 - Not Found - /static/bootstrap/dist/js/jquery.min.js - GET - ::1
+2019-04-22 07:40:39.541 KST [info]: main - ::1 - - [22/Apr/2019:10:40:39 +0000] "GET /stylesheets/datepicker.css HTTP/1.1" 200 4411 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:40:39.547 KST [info]: main - ::1 - - [22/Apr/2019:10:40:39 +0000] "GET /static/bootstrap/dist/js/jquery.min.js HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:40:39.550 KST [info]: main - ::1 - - [22/Apr/2019:10:40:39 +0000] "GET /static/jquery/dist/jquery.min.js HTTP/1.1" 200 86351 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:40:39.551 KST [info]: main - ::1 - - [22/Apr/2019:10:40:39 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 155758 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:40:39.645 KST [error]: main - 404 - Not Found - /static/bootstrap/dist/js/jquery.min.js - GET - ::1
+2019-04-22 07:40:39.648 KST [info]: main - ::1 - - [22/Apr/2019:10:40:39 +0000] "GET /static/bootstrap/dist/js/jquery.min.js HTTP/1.1" 404 1316 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:40:39.655 KST [info]: main - ::1 - - [22/Apr/2019:10:40:39 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css.map HTTP/1.1" 200 625953 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:41:09.474 KST [info]: main - ::1 - - [22/Apr/2019:10:41:09 +0000] "GET / HTTP/1.1" 200 734 "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:41:09.491 KST [info]: main - ::1 - - [22/Apr/2019:10:41:09 +0000] "GET /stylesheets/datepicker.css HTTP/1.1" 200 4411 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:41:09.498 KST [info]: main - ::1 - - [22/Apr/2019:10:41:09 +0000] "GET /static/jquery/dist/jquery.min.js HTTP/1.1" 200 86351 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:41:09.501 KST [info]: main - ::1 - - [22/Apr/2019:10:41:09 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css HTTP/1.1" 200 155758 "http://localhost:3000/" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
+2019-04-22 07:41:09.608 KST [info]: main - ::1 - - [22/Apr/2019:10:41:09 +0000] "GET /static/bootstrap/dist/css/bootstrap.min.css.map HTTP/1.1" 304 - "-" "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/73.0.3683.103 Safari/537.36"
+
