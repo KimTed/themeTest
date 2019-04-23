@@ -50,6 +50,22 @@
       "font-awesome": {
         "version": "^4.7.0",
         "namespace": true
+      },
+      "popper.js": {
+        "version": "^1.15.0",
+        "namespace": true
+      },
+      "datatables": {
+        "version": "^1.10.18",
+        "namespace": true
+      },
+      "morris.js": {
+        "version": "^0.5.0",
+        "namespace": true
+      },
+      "raphael": {
+        "version": "^2.2.8",
+        "namespace": true
       }
     }
   }
